@@ -1,0 +1,6 @@
+{
+  "name": "SnapAssist AI",
+  "description": "Private local AI troubleshooting assistant designed for Snapdragon-powered HP PCs with hardware-accelerated on-device AI simulation and local RAG.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
